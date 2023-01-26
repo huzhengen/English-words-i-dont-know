@@ -1,5 +1,7 @@
 # English-words-i-dont-know
 
+### 2023-01-26
+
 offspring
 
 botched
@@ -70,3 +72,123 @@ rare
 
 spinal muscular atrophy
 
+  setbacks
+  
+  tide
+  
+  expectations
+  
+  bound
+  
+  plagued
+  
+  imprecise
+  
+  genetics
+  
+  field
+  
+  Mother Nature
+  
+  knotty
+  
+  Heath Robinson
+  
+  be boun to
+  
+  nightmare
+  
+  individual
+  
+  affecting
+  
+  characteristics
+  
+  unpredictably
+  
+  meanwhile
+  
+  in effect
+  
+  observers
+  
+  crops
+  
+  mixed bag
+  
+  therapy
+  
+  rattles through
+  
+  briskly
+  
+  accessibly
+  
+  molecular
+  
+  speculative
+  
+  obey
+  
+  natural selection
+  
+  proposed
+  
+  wiping out
+  
+  pests
+  
+  mosquitoes
+  
+  long-standing
+  
+  enhancement
+  
+  glitches
+  
+  polemical
+  
+  overwrought
+  
+  diluting
+  
+  amplifying
+  
+  occasional
+  
+  unexplained
+  
+  readable
+  
+  prose
+  
+  end up
+  
+  objections
+  
+  observation
+  
+  obstacle
+  
+  primer
+  
+  well-informed
+  
+  implications
+  
+  enduringly
+  
+  controversial
+  
+  breakthroughs
+  
+  pondering
+  
+  ultimately
+  
+  live up to
+  
+  be worth
+  
+  
+ 
