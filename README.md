@@ -1,5 +1,45 @@
 # English-words-i-dont-know
 
+### 2023-01-28
+
+[catastrophe](https://www.merriam-webster.com/dictionary/catastrophe)
+
+faction
+
+burst out
+
+usefulness
+
+discourse
+
+tragic
+
+liner
+
+perish
+
+vicinity
+
+undertaking
+
+nun
+
+hurrah
+
+expenditure
+
+appendix
+
+stainless
+
+snap
+
+metropolitan
+
+jam
+
+ward
+
 ### 2023-01-26
 
 offspring
