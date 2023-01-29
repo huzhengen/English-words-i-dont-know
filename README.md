@@ -1,5 +1,21 @@
 # English-words-i-dont-know
 
+### 2023-01-29
+
+spice
+
+detector
+
+perish
+
+sewing
+
+carpet
+
+discourse
+
+jam
+
 ### 2023-01-28
 
 [catastrophe](https://www.merriam-webster.com/dictionary/catastrophe)
