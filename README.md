@@ -1,5 +1,19 @@
 # English-words-i-dont-know
 
+### 2023-01-30
+
+perish
+
+parish
+
+gigantic
+
+discourse
+
+vicinity
+
+invoice
+
 ### 2023-01-29
 
 spice
