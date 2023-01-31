@@ -2,7 +2,7 @@
 
 ### 2023-01-31
 
-[今日外刊](https://github.com/huzhengen/English-words-i-dont-know/blob/main/2023-1-31-enzo-fernandez-chelsea-make-105-4m-bid-for-benfica-midfielder-ahead-of-january-deadline.md)
+[今日外刊 - 2023-01-31 - Enzo Fernandez: Chelsea make £105.6m bid for Benfica midfielder ahead of January deadline](https://github.com/huzhengen/English-words-i-dont-know/blob/main/2023-1-31-enzo-fernandez-chelsea-make-105-4m-bid-for-benfica-midfielder-ahead-of-january-deadline.md)
 
 bid
 
