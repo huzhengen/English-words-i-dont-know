@@ -1,5 +1,25 @@
 # English-words-i-dont-know
 
+### 2023-01-31
+
+[今日外刊](https://github.com/huzhengen/English-words-i-dont-know/blob/main/2023-1-31-enzo-fernandez-chelsea-make-105-4m-bid-for-benfica-midfielder-ahead-of-january-deadline.md)
+
+bid
+
+midfielder 
+
+Portuguese 
+
+release clause
+
+instalments
+
+implications
+
+unauthorised
+
+criticised
+
 ### 2023-01-30
 
 perish
