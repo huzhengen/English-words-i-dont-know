@@ -1,5 +1,79 @@
 # English-words-i-dont-know
 
+### 2023-02-01
+
+[今日外刊 - 2023-02-01 - Marcel Sabitzer: Manchester United sign Bayern Munich midfielder on loan in late Deadline Day move](https://github.com/huzhengen/English-words-i-dont-know/blob/main/2023-02-01.md)
+
+intensified 
+
+ankle
+
+a host of
+
+enquired 
+
+Bundesliga
+
+Predominantly
+
+parish
+
+nutritional
+
+cocktails
+
+crack
+
+hierarchy
+
+lobby
+
+prospects
+
+accommodate
+
+mandatory
+
+beings
+
+apparent
+
+hydrocarbon
+
+consolidate
+
+urgent
+
+attorney
+
+hostile
+
+perish
+
+greed
+
+oyster
+
+endurance
+
+fireworks
+
+concession
+
+administrative
+
+internal
+
+pace
+
+tackle
+
+competitive 
+
+peak 
+
+squad
+
 ### 2023-01-31
 
 [今日外刊 - 2023-01-31 - Enzo Fernandez: Chelsea make £105.6m bid for Benfica midfielder ahead of January deadline](https://github.com/huzhengen/English-words-i-dont-know/blob/main/2023-1-31-enzo-fernandez-chelsea-make-105-4m-bid-for-benfica-midfielder-ahead-of-january-deadline.md)
