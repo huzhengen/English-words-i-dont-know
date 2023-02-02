@@ -1,5 +1,43 @@
 # English-words-i-dont-know
 
+### 2023-02-02
+
+[今日外刊 - 2023-02-02 - Jadon Sancho: Man Utd boss Erik ten Hag hopes Old Trafford reception will motivate forward to return to his best](https://github.com/huzhengen/English-words-i-dont-know/blob/main/2023-02-02.md)
+
+compromise
+
+victims
+
+tackle
+
+compassion
+
+orientation
+
+sustainability
+
+underlying
+
+contempt
+
+advisor
+
+patriot
+
+evident
+
+surveys
+
+culinary
+
+lodging
+
+attorney
+
+magnificent
+
+charter
+
 ### 2023-02-01
 
 [今日外刊 - 2023-02-01 - Marcel Sabitzer: Manchester United sign Bayern Munich midfielder on loan in late Deadline Day move](https://github.com/huzhengen/English-words-i-dont-know/blob/main/2023-02-01.md)
