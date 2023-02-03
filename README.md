@@ -1,5 +1,17 @@
 # English-words-i-dont-know
 
+### 2023-02-03
+
+[今日外刊 - 2023-02-03 - Liverpool: How Jurgen Klopp's Reds have been hurt on the pitch by a 'brain drain' off it](https://github.com/huzhengen/English-words-i-dont-know/blob/main/2023-02-03.md)
+
+pitch
+
+anniversary
+
+zen 
+
+warranted
+
 ### 2023-02-02
 
 [今日外刊 - 2023-02-02 - Jadon Sancho: Man Utd boss Erik ten Hag hopes Old Trafford reception will motivate forward to return to his best](https://github.com/huzhengen/English-words-i-dont-know/blob/main/2023-02-02.md)
