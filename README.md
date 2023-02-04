@@ -1,5 +1,9 @@
 # English-words-i-dont-know
 
+### 2023-02-04
+
+[今日外刊 - 2023-02-04 - Chelsea 0-0 Fulham: £106.8m signing Enzo Fernandez makes Blues debut but can't inspire victory in west London derby](https://github.com/huzhengen/English-words-i-dont-know/blob/main/2023-02-04.md)
+
 ### 2023-02-03
 
 [今日外刊 - 2023-02-03 - Liverpool: How Jurgen Klopp's Reds have been hurt on the pitch by a 'brain drain' off it](https://github.com/huzhengen/English-words-i-dont-know/blob/main/2023-02-03.md)
