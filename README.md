@@ -3,8 +3,17 @@
 ### 2023-02-09
 
 ashore
+> We docked our boat and went ashore to visit the island.<br>
+the seashells that wash ashore after a storm
 
 symptom
+> Inflammation is a core symptom of arthritis, so relieving inflammation with CBD keeps arthritis patients more comfortable.
+
+disturbance
+
+bodily 
+
+disorder
 
 allergies
 
