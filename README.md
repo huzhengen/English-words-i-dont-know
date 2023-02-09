@@ -1,5 +1,49 @@
 # English-words-i-dont-know
 
+### 2023-02-09
+
+ashore
+
+symptom
+
+allergies
+
+superior
+
+eco-friendly
+
+citizenship
+
+irrespective
+
+ethnic origin
+
+surgery
+
+radiation
+
+therapy
+
+treatment
+
+reflect
+
+calibration
+
+intervals
+
+heated debate
+
+versus
+
+protein
+
+varieties
+
+tempt
+
+buds
+
 ### 2023-02-05
 
 [今日外刊 - 2023-02-05 - Jurgen Klopp on Liverpool's 'horrible start' in defeat at Wolves: 'How can I not be concerned?'](https://github.com/huzhengen/English-words-i-dont-know/blob/main/2023-02-05.md)
