@@ -1,5 +1,23 @@
 # English-words-i-dont-know
 
+### 2023-02-12
+
+phrase
+
+instant
+
+candidates
+
+undertake
+
+president
+
+banquet
+
+bribe
+
+treatment
+
 ### 2023-02-09
 
 ashore
