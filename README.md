@@ -1,8 +1,41 @@
 # English-words-i-dont-know
 
+### 2023-02-13
+
+characteristic 
+
+distinguishing 
+
+distinguish
+>You're old enough to distinguish between fact and fantasy.<br>
+I have trouble distinguishing between the two of them.<br>
+
+perceive
+>How does a boy perceive his childhood in these conditions?<br>
+
+attain 
+
+awareness 
+
+trait
+
+breed 
+
+integral 
+
+logarithm
+
+Synonyms
+
+manner 
+
 ### 2023-02-12
 
 phrase
+> Answer the questions in complete sentences, not phrases.<br>
+She used the phrase “I strongly believe” too many times in her speech.<br>
+Underline the key words or phrases in the paragraph.<br>
+To borrow a phrase from my mother, I spend too much time “watching the boob tube” and not enough time outside.
 
 instant
 
