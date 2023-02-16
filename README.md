@@ -3,6 +3,13 @@
 ### 2023-02-16
 
 confrontation
+>Hemphill, who is white, allegedly deployed his Taser during the confrontation.<br>
+
+Memphis
+
+suspect 
+
+rival gangs
 
 interior
 
