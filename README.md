@@ -1,5 +1,57 @@
 # English-words-i-dont-know
 
+### 2023-02-16
+
+confrontation
+
+interior
+
+cooker
+
+tabloid
+
+celebrity
+
+calibration
+
+departure
+
+deviate
+
+amateur
+
+downswing
+
+unemployment
+
+landlord
+
+preservation
+
+decency
+
+hearth
+
+innocence
+
+degradation
+
+tropical
+
+tray
+
+extension
+
+microscopic
+
+seminar
+
+accommodation
+
+abundant
+
+irony
+
 ### 2023-02-14
 
 shrimp
