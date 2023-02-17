@@ -1,5 +1,31 @@
 # English-words-i-dont-know
 
+### 2023-02-17
+
+veteran
+>He's a 10-year veteran with the team.<br>
+>Each session, Canapino finished one spot ahead of series veteran Graham Rahal and always finished 2nd-fasest among the four rookies.
+
+armed forces
+
+occupation 
+
+contradictory
+
+distinction
+
+surgeons
+
+stitch
+
+sin
+
+intuition
+
+trademark
+
+recipient
+
 ### 2023-02-16
 
 confrontation
