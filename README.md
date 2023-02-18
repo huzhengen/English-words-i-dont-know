@@ -1,5 +1,15 @@
 # English-words-i-dont-know
 
+### 2023-02-18
+
+Democrats 
+
+demographic
+
+chamber 
+
+rundown
+
 ### 2023-02-17
 
 veteran
