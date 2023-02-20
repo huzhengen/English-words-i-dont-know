@@ -1,5 +1,51 @@
 # English-words-i-dont-know
 
+### 2023-02-20
+
+confine
+
+indulge
+
+trait
+
+remarks
+
+avalanche
+
+undermining
+
+reside
+
+calibration
+
+faculty
+
+prestige
+
+salmon
+
+deprivation
+
+subconscious
+
+indication
+
+aromatherapy
+
+convince
+
+threshold
+
+appreciation
+
+fatigue
+
+degradation
+
+distinction
+
+suspect
+
 ### 2023-02-18
 
 Democrats 
