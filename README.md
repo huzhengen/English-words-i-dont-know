@@ -1,5 +1,15 @@
 # English-words-i-dont-know
 
+### 2023-02-21
+
+integrate
+
+resolute
+
+trait
+
+undermining
+
 ### 2023-02-20
 
 confine
