@@ -3,8 +3,8 @@
 ### 2023-03-02
 
 informative
->some websites for family vacation resorts are very informative and some are practically useless<br>
-[Pay attention to the scathing reviews, which might be more informative than the glowing ones.](https://www.washingtonpost.com/technology/2023/02/14/what-is-temu-super-bowl-commercial/)
+>some websites for family vacation resorts are very `informative` and some are practically useless<br>
+[Pay attention to the scathing reviews, which might be more `informative` than the glowing ones.](https://www.washingtonpost.com/technology/2023/02/14/what-is-temu-super-bowl-commercial/)
 
 annual 
 
