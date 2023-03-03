@@ -1,5 +1,35 @@
 # English-words-i-dont-know
 
+### 2023-03-03
+
+scratch
+
+concepts 
+
+achieve 
+
+aspect
+
+evolved
+
+independent 
+
+embedded 
+
+codenames
+
+terms 
+
+complicated
+
+parses
+
+optimizations 
+
+further 
+
+optimizes 
+
 ### 2023-03-02
 
 informative
