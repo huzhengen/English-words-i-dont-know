@@ -1,5 +1,35 @@
 # English-words-i-dont-know
 
+### 2023-03-05
+
+arbitrary 
+
+restrictions 
+
+interact
+
+explicit
+
+explicit permission
+
+sneakily 
+
+Same Origin Policy
+
+crippled
+
+widespread 
+
+plethora 
+
+a plethora of
+
+syntactic sugar
+
+precise 
+
+standalone 
+
 ### 2023-03-03
 
 scratch
