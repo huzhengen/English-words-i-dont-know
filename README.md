@@ -30,6 +30,32 @@ precise
 
 standalone 
 
+concise 
+
+adopted 
+
+gradually 
+
+formalized 
+
+trustworthy 
+
+bleeding-edge
+
+proposals 
+
+Reference 
+
+Compatibility 
+
+regularly
+
+cryptography 
+
+full-scale
+
+negligible 
+
 ### 2023-03-03
 
 scratch
