@@ -1,5 +1,72 @@
 # English-words-i-dont-know
 
+### 2023-03-08
+
+compost
+>[Insulate tender perennials like roses, clematis and dahlias with mulch, compost, leaves, conifer branches or any kind of organic matter that will protect root systems.](https://www.oregonlive.com/weather/2023/02/snow-takes-a-toll-on-plants-and-trees-heres-how-to-help-them.html)
+
+conscious
+
+courtyard
+
+reflection
+
+popcorn
+
+estimate
+
+vintage
+
+sentiments
+
+virtue
+
+solely
+
+mere
+
+proverb
+
+toddler
+
+occupation
+
+masculine
+
+consistent
+
+vowel
+
+grasp
+
+hail
+
+dissipate
+
+corrosion
+
+saturation
+
+gradually
+
+maiden
+
+bureau
+
+stray
+
+lounge
+
+flesh
+
+flash
+
+flush
+
+conqueror
+
+mayor
+
 ### 2023-03-05
 
 arbitrary 
