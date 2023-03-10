@@ -1,5 +1,84 @@
 # English-words-i-dont-know
 
+### 2023-03-10
+
+elegant
+> [Its rooms are stately, elegant, and calm, with the best ones affording harbor views.](https://www.forbes.com/sites/everettpotter/2023/02/23/discovering-tasmanias-food-bounty/)
+
+instantly
+
+analyzes 
+
+In practice
+
+strict border 
+
+for instance
+
+shareware
+
+partially 
+
+console
+
+prone 
+
+potent
+
+rarely 
+
+External
+
+As a rule
+
+traffic 流量
+
+interaction 
+
+devoted
+
+distract 
+
+vintage
+
+estimate
+
+dwell
+
+swell
+
+virtue
+
+critical
+
+grasp
+
+mere
+
+hay
+
+alignment
+
+arise
+
+sham
+
+exert
+
+stalls
+
+succession
+
+constitution
+
+simulation
+
+vintage
+
+virtue
+
+ion
+
 ### 2023-03-08
 
 compost
