@@ -1,5 +1,35 @@
 # English-words-i-dont-know
 
+### 2023-03-11
+
+consistent
+
+grasp
+
+hazard
+
+vowel
+
+perpetuates
+
+sham
+
+chic
+
+solely
+
+rugby
+
+estimate
+
+melody
+
+mere
+
+pierce
+
+atheism
+
 ### 2023-03-10
 
 elegant
