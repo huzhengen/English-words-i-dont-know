@@ -1,5 +1,78 @@
 # English-words-i-dont-know
 
+### 2023-03-12
+
+affirm
+> [Video shows a 31-year-old Milwaukee man let a police officer into the residence and then affirm a 75-year-old Milwaukee woman is sleeping on the couch.](https://www.jsonline.com/story/news/2022/12/31/milwaukee-police-release-bodycam-footage-of-officer-shooting-man/69767981007/)
+
+woe
+
+superstition
+
+thereby
+
+brownies
+
+grocery
+
+maid
+
+screw
+
+opt
+
+comprehensive
+
+solely
+
+peril
+
+conscious
+
+consistent
+
+alignment
+
+contemporary
+
+corporate
+
+discretion
+
+arise
+
+peel off
+
+profitable
+
+hay
+
+bare
+
+roam
+
+disperse
+
+regiment
+
+superstition
+
+bureau
+
+maiden
+
+respectively
+
+utensil
+
+chronicle
+
+expedition
+
+retreat
+
+anticipated
+
 ### 2023-03-11
 
 consistent
