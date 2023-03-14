@@ -3,6 +3,7 @@
 ### 2023-03-14
 
 coincide
+> [All too often, though, the mental health effects that coincide with chronic physical conditions are overlooked as people address what’s going on elsewhere in their bodies.](https://www.self.com/story/crohns-disease-mental-health-tips)
 
 tiresome
 
