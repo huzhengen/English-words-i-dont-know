@@ -1,9 +1,40 @@
 # English-words-i-dont-know
 
+### 2023-03-15
+
+blatant
+> [Peña is the most `blatant` example of recent Astros prospects to find rather immediate success at the MLB level, though there were a couple other notable rookies last season.](https://www.chron.com/sports/astros/article/houston-astros-prospect-rankings-17772232.php)
+
+revive
+
+substantially
+
+proficiency
+
+treaty
+
+pantry
+
+avenue
+
+civilian
+
+reliability
+
+prophet
+
+epoch
+
+miniature
+
+protocol
+
+stereotypes
+
 ### 2023-03-14
 
 coincide
-> [All too often, though, the mental health effects that coincide with chronic physical conditions are overlooked as people address what’s going on elsewhere in their bodies.](https://www.self.com/story/crohns-disease-mental-health-tips)
+> [All too often, though, the mental health effects that `coincide` with chronic physical conditions are overlooked as people address what’s going on elsewhere in their bodies.](https://www.self.com/story/crohns-disease-mental-health-tips)
 
 tiresome
 
