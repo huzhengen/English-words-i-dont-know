@@ -1,5 +1,62 @@
 # English-words-i-dont-know
 
+### 2023-03-18
+
+terror
+> [Created by the Clarkson twins, the show follows a ragtag crew of teen who fight to survive a summer of `terror` after downloading an app that makes dangerous demands with deadly consequences.](https://variety.com/2023/tv/news/perfect-match-debuts-no-2-english-tv-list-24-million-hours-netflix-1235530655/)
+
+ideology
+
+preserve
+
+schemes
+
+fraud
+
+vulgar
+
+consul
+
+advocacy
+
+probe
+
+perpetual
+
+nationwide
+
+tutorials
+
+sustain
+
+soaring
+
+utilities
+
+peculiar
+
+suffice
+
+greenhouse
+
+undergone
+
+bankruptcy
+
+organic
+
+chief
+
+fancy
+
+fret
+
+characteristic
+
+perpetual
+
+epoch
+
 ### 2023-03-17
 
 protest
