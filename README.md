@@ -1,5 +1,60 @@
 # English-words-i-dont-know
 
+### 2023-03-20
+
+precise
+> [That’s because if treatment is required, a precise plan will need to be formulated.](https://fortune.com/well/2023/03/03/how-to-tell-difference-between-covid-rsv-symptoms-cough/)
+
+geometrical
+
+contamination
+
+spill
+
+pertinent
+
+hen
+
+compulsory
+
+haul
+
+peculiar
+
+dominant
+
+coincide
+
+treaty
+
+rustic
+
+splendid
+
+instant
+
+incident
+
+forces
+
+vision
+
+hypocritical
+
+stimulates
+
+dwarf
+
+volumes
+
+crucial
+
+assure
+
+disgusting
+
+emoticon
+
 ### 2023-03-19
 
 dismiss
