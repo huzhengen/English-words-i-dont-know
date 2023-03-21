@@ -111,21 +111,13 @@ pertinent
 
 hen
 
-compulsory
-
 haul
-
-peculiar
 
 dominant
 
 coincide
 
 treaty
-
-rustic
-
-splendid
 
 instant
 
@@ -164,8 +156,6 @@ flaw
 
 supervisor
 
-boycott
-
 clutch
 
 chapel
@@ -184,17 +174,11 @@ liable
 
 potential
 
-encounter
-
 mansion
 
 protest
 
 vulgar
-
-burglar
-
-perpetual
 
 prophet
 
@@ -242,13 +226,7 @@ hay
 
 obligation
 
-perpetual
-
-peculiar
-
 sponge
-
-consumption
 
 extinguish
 
@@ -269,8 +247,6 @@ contamination
 bourgeois
 
 geometrical
-
-premier
 
 economically
 
@@ -299,11 +275,7 @@ vulgar
 
 consul
 
-advocacy
-
 probe
-
-perpetual
 
 nationwide
 
@@ -314,8 +286,6 @@ sustain
 soaring
 
 utilities
-
-peculiar
 
 suffice
 
@@ -334,8 +304,6 @@ fancy
 fret
 
 characteristic
-
-perpetual
 
 epoch
 
@@ -378,13 +346,9 @@ melancholy
 
 linen
 
-treaty
-
 anticipated
 
 corrosion
-
-indispensable
 
 tiresome
 
@@ -411,8 +375,6 @@ equilibrium
 stalls
 
 peril
-
-hay
 
 avenue
 
@@ -446,8 +408,6 @@ revive
 substantially
 
 proficiency
-
-treaty
 
 pantry
 
@@ -554,10 +514,6 @@ crop
 
 embarrass
 
-treaty
-
-arise
-
 chic
 
 elegant
@@ -653,13 +609,9 @@ corporate
 
 discretion
 
-arise
-
 peel off
 
 profitable
-
-hay
 
 bare
 
@@ -668,8 +620,6 @@ roam
 disperse
 
 regiment
-
-superstition
 
 bureau
 
@@ -700,8 +650,6 @@ vowel
 perpetuates
 
 sham
-
-chic
 
 solely
 
@@ -772,14 +720,6 @@ grasp
 
 mere
 
-hay
-
-alignment
-
-arise
-
-sham
-
 exert
 
 stalls
@@ -844,10 +784,6 @@ corrosion
 saturation
 
 gradually
-
-maiden
-
-bureau
 
 stray
 
