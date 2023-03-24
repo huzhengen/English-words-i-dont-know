@@ -1,12 +1,144 @@
 # English-words-i-dont-know
 
+### 2023-03-23
+
+governor
+
+prominent
+
+consortium
+
+mutual
+
+lush
+
+rare
+
+establishing
+
+assessing
+
+organ
+
+donor
+
+pertinent
+
+protest
+
+boycott
+
+premier
+
+chief
+
+litigation
+
+splendid
+
+rustic
+
+sector
+
+constraints
+
+ceremony
+
+pursue
+
+crucial
+
+deluxe
+
+rattle
+
+wardrobe
+
+loosely
+
+chalet
+
+resolution
+
+dismay
+
+grim
+
+overlook
+
+cure
+
+beneath
+
+classified
+
+obligations
+
+vengeance
+
+prospective
+
+platypus
+
+vision
+
+flats
+
+stimulates
+
+ally
+
+groom
+
+revolutionary
+
+theoretical
+
+gradually
+
+glacier
+
+tralier
+
+illuminate
+
+thigh
+
+fringe
+
+unanimous
+
+guarantee
+
+corrupt
+
+Lisbon
+
+cruises
+
+frequent
+
+perpetual
+
+publicity
+
+grief
+
+illiterate
+
+wrath
+
+squeeze
+
+boost
+
+medieval
+
 ### 2023-03-21
 
 tidy
 
 pour
-
-rustic
 
 instant
 
@@ -14,21 +146,13 @@ bridal
 
 diner
 
-perpetual
-
 melted
 
 butter
 
-splendid
-
 advocacy
 
 sauna
-
-boycott
-
-premier
 
 consumption
 
@@ -52,8 +176,6 @@ vulgar
 
 utilities
 
-protest
-
 prophet
 
 priest
@@ -62,11 +184,7 @@ politicians
 
 incorporated
 
-deluxe
-
 dwarf
-
-pertinent
 
 extinguish
 
@@ -86,10 +204,6 @@ erosion
 
 criteria
 
-rare
-
-lush
-
 refreshments
 
 hound
@@ -107,35 +221,19 @@ contamination
 
 spill
 
-pertinent
-
 hen
 
 haul
 
-dominant
-
-coincide
-
 treaty
-
-instant
 
 incident
 
 forces
 
-vision
-
 hypocritical
 
-stimulates
-
-dwarf
-
 volumes
-
-crucial
 
 assure
 
@@ -166,8 +264,6 @@ conjunction
 
 reclaim
 
-medieval
-
 burned down
 
 liable
@@ -175,12 +271,6 @@ liable
 potential
 
 mansion
-
-protest
-
-vulgar
-
-prophet
 
 scandal
 
@@ -202,21 +292,13 @@ hectic
 
 pace
 
-fret over
-
 dreadful
-
-priest
 
 thorough
 
 protocol
 
 hut
-
-tobacco
-
-ally
 
 pickle
 
@@ -228,8 +310,6 @@ obligation
 
 sponge
 
-extinguish
-
 tilt
 
 dean
@@ -240,23 +320,13 @@ cricket
 
 arrogance
 
-haul
-
-contamination
-
 bourgeois
-
-geometrical
 
 economically
 
 stall
 
 bowling
-
-deluxe
-
-hen
 
 ### 2023-03-18
 
@@ -271,8 +341,6 @@ schemes
 
 fraud
 
-vulgar
-
 consul
 
 probe
@@ -285,8 +353,6 @@ sustain
 
 soaring
 
-utilities
-
 suffice
 
 greenhouse
@@ -297,19 +363,13 @@ bankruptcy
 
 organic
 
-chief
-
 fancy
-
-fret
 
 characteristic
 
 epoch
 
 ### 2023-03-17
-
-protest
 
 classification
 
@@ -354,8 +414,6 @@ tiresome
 
 masculine
 
-cope
-
 notorious
 
 brace
@@ -394,8 +452,6 @@ hut
 
 confront
 
-ally
-
 dreadful
 
 ### 2023-03-15
@@ -417,8 +473,6 @@ civilian
 
 reliability
 
-prophet
-
 epoch
 
 miniature
@@ -434,10 +488,6 @@ coincide
 
 tiresome
 
-cope
-
-cope with
-
 vulture
 
 outings
@@ -449,8 +499,6 @@ domain
 indefinite
 
 leisurely
-
-pertinent
 
 peer
 
@@ -539,8 +587,6 @@ tension
 mount
 
 regulation
-
-liable
 
 avenue
 
@@ -783,8 +829,6 @@ corrosion
 
 saturation
 
-gradually
-
 stray
 
 lounge
@@ -825,15 +869,11 @@ a plethora of
 
 syntactic sugar
 
-precise 
-
 standalone 
 
 concise 
 
 adopted 
-
-gradually 
 
 formalized 
 
@@ -1120,8 +1160,6 @@ bribe
 
 suspect
 
-instant
-
 dispute
 
 EXCLUSIVE
@@ -1168,8 +1206,6 @@ phrase
 She used the phrase “I strongly believe” too many times in her speech.<br>
 Underline the key words or phrases in the paragraph.<br>
 To borrow a phrase from my mother, I spend too much time “watching the boob tube” and not enough time outside.
-
-instant
 
 candidates
 
@@ -1536,129 +1572,125 @@ corpses
 
 malfunctioning
 
-cure
-
-rare
-
 spinal muscular atrophy
 
-  setbacks
-  
-  tide
-  
-  expectations
-  
-  bound
-  
-  plagued
-  
-  imprecise
-  
-  genetics
-  
-  field
-  
-  Mother Nature
-  
-  knotty
-  
-  Heath Robinson
-  
-  be boun to
-  
-  nightmare
-  
-  individual
-  
-  affecting
-  
-  characteristics
-  
-  unpredictably
-  
-  meanwhile
-  
-  in effect
-  
-  observers
-  
-  crops
-  
-  mixed bag
-  
-  therapy
-  
-  rattles through
-  
-  briskly
-  
-  accessibly
-  
-  molecular
-  
-  speculative
-  
-  obey
-  
-  natural selection
-  
-  proposed
-  
-  wiping out
-  
-  pests
-  
-  mosquitoes
-  
-  long-standing
-  
-  enhancement
-  
-  glitches
-  
-  polemical
-  
-  overwrought
-  
-  diluting
-  
-  amplifying
-  
-  occasional
-  
-  unexplained
-  
-  readable
-  
-  prose
-  
-  end up
-  
-  objections
-  
-  observation
-  
-  obstacle
-  
-  primer
-  
-  well-informed
-  
-  implications
-  
-  enduringly
-  
-  controversial
-  
-  breakthroughs
-  
-  pondering
-  
-  ultimately
-  
-  live up to
-  
-  be worth
-  
-  
+setbacks
+
+tide
+
+expectations
+
+bound
+
+plagued
+
+imprecise
+
+genetics
+
+field
+
+Mother Nature
+
+knotty
+
+Heath Robinson
+
+be boun to
+
+nightmare
+
+individual
+
+affecting
+
+characteristics
+
+unpredictably
+
+meanwhile
+
+in effect
+
+observers
+
+crops
+
+mixed bag
+
+therapy
+
+rattles through
+
+briskly
+
+accessibly
+
+molecular
+
+speculative
+
+obey
+
+natural selection
+
+proposed
+
+wiping out
+
+pests
+
+mosquitoes
+
+long-standing
+
+enhancement
+
+glitches
+
+polemical
+
+overwrought
+
+diluting
+
+amplifying
+
+occasional
+
+unexplained
+
+readable
+
+prose
+
+end up
+
+objections
+
+observation
+
+obstacle
+
+primer
+
+well-informed
+
+implications
+
+enduringly
+
+controversial
+
+breakthroughs
+
+pondering
+
+ultimately
+
+live up to
+
+be worth
+
+
  
