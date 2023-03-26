@@ -1,12 +1,112 @@
 # English-words-i-dont-know
 
-### 2023-03-23
+### 2023-03-26
 
-governor
+lessen
+
+childcare
+
+constituent
+
+surveillance
+
+unanimous
+
+court
+
+protest
+
+monopoly
+
+refinery
+
+retailers
+
+furnishings
 
 prominent
 
+obligations
+
+compulsory
+
+grief
+
+loft
+
+perpetual
+
+cemetery
+
+deficit
+
+constraints
+
 consortium
+
+glacier
+
+boycott
+
+squeeze
+
+wrath
+
+crucial
+
+peninsula
+
+fluid
+
+fringe
+
+bourgeois
+
+cattle
+
+tan
+
+sponsors
+
+compete
+
+premises
+
+kernel
+
+agenda
+
+peak
+
+### 2023-03-24
+
+boost
+
+credentials
+
+trailer
+
+executives
+
+potential
+
+resist
+
+convey
+
+cruises
+
+illiterate
+
+publicity
+
+illuminate
+
+resolution
+
+### 2023-03-23
+
+governor
 
 mutual
 
@@ -24,10 +124,6 @@ donor
 
 pertinent
 
-protest
-
-boycott
-
 premier
 
 chief
@@ -40,13 +136,9 @@ rustic
 
 sector
 
-constraints
-
 ceremony
 
 pursue
-
-crucial
 
 deluxe
 
@@ -57,8 +149,6 @@ wardrobe
 loosely
 
 chalet
-
-resolution
 
 dismay
 
@@ -71,8 +161,6 @@ cure
 beneath
 
 classified
-
-obligations
 
 vengeance
 
@@ -96,17 +184,9 @@ theoretical
 
 gradually
 
-glacier
-
 tralier
 
-illuminate
-
 thigh
-
-fringe
-
-unanimous
 
 guarantee
 
@@ -114,23 +194,7 @@ corrupt
 
 Lisbon
 
-cruises
-
 frequent
-
-perpetual
-
-publicity
-
-grief
-
-illiterate
-
-wrath
-
-squeeze
-
-boost
 
 medieval
 
@@ -165,8 +229,6 @@ bacterial
 biscuits
 
 indispensable
-
-compulsory
 
 peculiar
 
@@ -268,8 +330,6 @@ burned down
 
 liable
 
-potential
-
 mansion
 
 scandal
@@ -320,8 +380,6 @@ cricket
 
 arrogance
 
-bourgeois
-
 economically
 
 stall
@@ -353,13 +411,9 @@ sustain
 
 soaring
 
-suffice
-
 greenhouse
 
 undergone
-
-bankruptcy
 
 organic
 
@@ -448,36 +502,20 @@ reunion
 
 respectively
 
-hut
-
 confront
-
-dreadful
 
 ### 2023-03-15
 
 blatant
 > [Peña is the most `blatant` example of recent Astros prospects to find rather immediate success at the MLB level, though there were a couple other notable rookies last season.](https://www.chron.com/sports/astros/article/houston-astros-prospect-rankings-17772232.php)
 
-revive
-
-substantially
-
 proficiency
 
 pantry
 
-avenue
-
 civilian
 
 reliability
-
-epoch
-
-miniature
-
-protocol
 
 stereotypes
 
@@ -485,8 +523,6 @@ stereotypes
 
 coincide
 > [All too often, though, the mental health effects that `coincide` with chronic physical conditions are overlooked as people address what’s going on elsewhere in their bodies.](https://www.self.com/story/crohns-disease-mental-health-tips)
-
-tiresome
 
 vulture
 
@@ -502,35 +538,17 @@ leisurely
 
 peer
 
-lenient
-
-revive
-
 crepe
-
-pickle
 
 ashamed
 
-substantially
-
-revision
-
-proficiency
-
 transparency
 
-civilian
-
 internship
-
-bakery
 
 panel
 
 courtesy
-
-linen
 
 comfy
 
@@ -540,8 +558,6 @@ depicts
 
 stroke
 
-discretion
-
 linked
 
 acquisition
@@ -550,29 +566,21 @@ hazard
 
 artificial
 
-reliability
-
 delusion
 
 conducting
 
 proverb
 
-crop
-
 embarrass
 
 chic
-
-elegant
 
 themed
 
 outfits
 
 suits
-
-exert
 
 lipstick
 
@@ -588,19 +596,13 @@ mount
 
 regulation
 
-avenue
-
 innumerable
 
 rational
 
-skepticism
-
 villas
 
 waterfront
-
-blatant
 
 distribution
 
@@ -613,8 +615,6 @@ objection
 flourish
 
 porch
-
-mount
 
 ### 2023-03-12
 
@@ -641,8 +641,6 @@ comprehensive
 
 solely
 
-peril
-
 conscious
 
 consistent
@@ -652,8 +650,6 @@ alignment
 contemporary
 
 corporate
-
-discretion
 
 peel off
 
@@ -671,33 +667,19 @@ bureau
 
 maiden
 
-respectively
-
 utensil
-
-chronicle
 
 expedition
 
-retreat
-
-anticipated
-
 ### 2023-03-11
 
-consistent
-
 grasp
-
-hazard
 
 vowel
 
 perpetuates
 
 sham
-
-solely
 
 rugby
 
@@ -752,8 +734,6 @@ distract
 
 vintage
 
-estimate
-
 dwell
 
 swell
@@ -762,23 +742,11 @@ virtue
 
 critical
 
-grasp
-
-mere
-
-exert
-
-stalls
-
 succession
 
 constitution
 
 simulation
-
-vintage
-
-virtue
 
 ion
 
@@ -787,45 +755,21 @@ ion
 compost
 >[Insulate tender perennials like roses, clematis and dahlias with mulch, compost, leaves, conifer branches or any kind of organic matter that will protect root systems.](https://www.oregonlive.com/weather/2023/02/snow-takes-a-toll-on-plants-and-trees-heres-how-to-help-them.html)
 
-conscious
-
 courtyard
 
 reflection
 
 popcorn
 
-estimate
-
-vintage
-
 sentiments
-
-virtue
-
-solely
-
-mere
-
-proverb
 
 toddler
 
 occupation
 
-masculine
-
-consistent
-
-vowel
-
-grasp
-
 hail
 
 dissipate
-
-corrosion
 
 saturation
 
@@ -850,8 +794,6 @@ arbitrary
 restrictions 
 
 interact
-
-explicit
 
 explicit permission
 
@@ -892,8 +834,6 @@ regularly
 cryptography 
 
 full-scale
-
-negligible 
 
 ### 2023-03-03
 
@@ -955,13 +895,9 @@ confine
 
 indulge
 
-trait
-
 remarks
 
 avalanche
-
-undermining
 
 reside
 
@@ -976,8 +912,6 @@ salmon
 deprivation
 
 subconscious
-
-indication
 
 aromatherapy
 
@@ -1013,11 +947,7 @@ veteran
 
 armed forces
 
-occupation 
-
 contradictory
-
-distinction
 
 surgeons
 
@@ -1038,8 +968,6 @@ confrontation
 
 Memphis
 
-suspect 
-
 rival gangs
 
 interior
@@ -1049,8 +977,6 @@ cooker
 tabloid
 
 celebrity
-
-calibration
 
 departure
 
@@ -1071,8 +997,6 @@ decency
 hearth
 
 innocence
-
-degradation
 
 tropical
 
@@ -1099,8 +1023,6 @@ utilize
 squash
 
 courting
-
-extension
 
 inn
 
@@ -1152,13 +1074,9 @@ torment
 
 reveal
 
-seminar
-
 senate
 
 bribe
-
-suspect
 
 dispute
 
@@ -1172,8 +1090,6 @@ Filmography
 
 ### 2023-02-13
 
-characteristic 
-
 distinguishing 
 
 distinguish
@@ -1186,8 +1102,6 @@ perceive
 attain 
 
 awareness 
-
-trait
 
 breed 
 
@@ -1209,13 +1123,7 @@ To borrow a phrase from my mother, I spend too much time “watching the boob tu
 
 candidates
 
-undertake
-
 president
-
-banquet
-
-bribe
 
 treatment
 
@@ -1252,11 +1160,7 @@ radiation
 
 therapy
 
-treatment
-
 reflect
-
-calibration
 
 intervals
 
@@ -1267,8 +1171,6 @@ versus
 protein
 
 varieties
-
-tempt
 
 buds
 
@@ -1406,13 +1308,9 @@ administrative
 
 internal
 
-pace
-
 tackle
 
 competitive 
-
-peak 
 
 squad
 
