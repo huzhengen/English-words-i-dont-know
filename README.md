@@ -1,8 +1,126 @@
 # English-words-i-dont-know
 
-### 2023-04-04
+### 2023-04-06
+
+menace
+
+feast
+
+concerns
+
+revolve
+
+testify
+
+reckon
+
+encouraging
+
+specimen
+
+apparently
+
+invariably
+
+secluded
+
+trek
+
+incorporated
+
+requisite
+
+residual
+
+serpent
+
+handout
+
+restrictions
+
+tile
+
+poop
+
+insignificant
+
+sustainable
+
+hatch
+
+dynamo
 
 terrific
+
+substitute
+
+proprietary
+
+revenues
+
+mighty
+
+cluster
+
+reckless
+
+genetic
+
+orchard
+
+outfits
+
+gross
+
+roughly
+
+collapse
+
+cruel
+
+indicators
+
+compliance
+
+overthrow
+
+incidence
+
+treasury
+
+enthusiasm
+
+confess
+
+copper
+
+gulf
+
+hypocrisy
+
+sergeant
+
+grief
+
+ambassador
+
+anticipate
+
+sake
+
+irrigation
+
+imperial
+
+strive
+
+pneumatic
+
+precious
+
+recession
+
+### 2023-04-04
 
 competent
 
@@ -14,31 +132,19 @@ relief
 
 junction
 
-orchard
-
 legislation
-
-substitute
 
 compulsory
 
 supervision
 
-sergeant
-
 sacrifice
 
 locomotive
 
-compliance
-
 determine
 
 hitherto
-
-enthusiasm
-
-revenues
 
 triumphant
 
@@ -52,31 +158,17 @@ advertisers
 
 deposit
 
-reckless
-
 analytical
-
-indicators
-
-incidence
-
-ambassador
-
-anticipate
 
 tutor
 
 acute
-
-confess
 
 incentives
 
 valve
 
 alteration
-
-collapse
 
 perpetual
 
@@ -88,8 +180,6 @@ fundraising
 
 infinitely
 
-sake
-
 vessel
 
 constraint
@@ -98,17 +188,11 @@ municipal
 
 empower
 
-strive
-
 canyon
-
-irrigation
 
 prospect
 
 dawn
-
-imperial
 
 barometer
 
@@ -126,11 +210,7 @@ observed
 
 likeness
 
-roughly
-
 nourish
-
-recession
 
 decay
 
@@ -145,8 +225,6 @@ tolerant
 readily
 
 partial
-
-pneumatic
 
 applicants
 
@@ -165,8 +243,6 @@ collaboration
 pharmeceutical
 
 bacteria
-
-precious
 
 ### 2023-03-26
 
@@ -196,13 +272,7 @@ prominent
 
 obligations
 
-compulsory
-
-grief
-
 loft
-
-perpetual
 
 cemetery
 
@@ -411,8 +481,6 @@ prophet
 priest
 
 politicians
-
-incorporated
 
 dwarf
 
@@ -746,8 +814,6 @@ chic
 
 themed
 
-outfits
-
 suits
 
 lipstick
@@ -959,8 +1025,6 @@ mayor
 
 arbitrary 
 
-restrictions 
-
 interact
 
 explicit permission
@@ -990,8 +1054,6 @@ formalized
 trustworthy 
 
 bleeding-edge
-
-proposals 
 
 Reference 
 
@@ -1326,8 +1388,6 @@ surgery
 
 radiation
 
-therapy
-
 reflect
 
 intervals
@@ -1596,8 +1656,6 @@ dread
 
 disputation
 
-genetic
-
 tinkering with
 
 tinker
@@ -1627,8 +1685,6 @@ insulin
 diabetes
 
 diabetics
-
-bacteria
 
 for instance
 
@@ -1742,8 +1798,6 @@ primer
 
 well-informed
 
-implications
-
 enduringly
 
 controversial
@@ -1757,6 +1811,3 @@ ultimately
 live up to
 
 be worth
-
-
- 
