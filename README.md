@@ -1,18 +1,220 @@
 # English-words-i-dont-know
 
-### 2023-04-07
+### 2023-04-10
 
-leverage
+orchestra
 
-astronomy
+van
 
-offshore
+graphite
+
+undesirable
+
+oversight
+
+affiliates
+
+brochure
+
+explicit
+
+intensity
+
+assembly
+
+provoke
+
+uniform
+
+alternate
+
+exposition
+
+intimate
+
+diameter
+
+exempt
+
+testify
+
+substitute
+
+graze
+
+twist
+
+semester
+
+outlook
+
+strengthen
 
 mandate
 
-aggregate
+illusion
+
+optical
+
+clearance
+
+exhibit
 
 annual
+
+majesty
+
+prohibition
+
+soy
+
+charities
+
+revolve
+
+properly
+
+reflect
+
+gentle
+
+subtle
+
+applicable
+
+suitable
+
+hatch
+
+miserable
+
+admissions
+
+referral
+
+pendulum
+
+crucial
+
+anticipate
+
+breach
+
+terminology
+
+invariably
+
+menace
+
+doctrine
+
+cruise
+
+dock
+
+decay
+
+significantly
+
+termination
+
+toast
+
+jelly
+
+offshore
+
+tile
+
+commodity
+
+sighs
+
+analogue
+
+insignificant
+
+astronomy
+
+incidence
+
+authentication
+
+mighty
+
+separately
+
+aggregate
+
+recruiting
+
+acquired
+
+handout
+
+obtained
+
+designation
+
+stiffness
+
+tactics
+
+vast
+
+denote
+
+molecule
+
+atom
+
+grain
+
+ultrasonic
+
+preliminary
+
+stakeholders
+
+outcomes
+
+orchard
+
+delegates
+
+priority
+
+serpent
+
+copper
+
+gulf
+
+empower
+
+fraud
+
+logistics
+
+offence
+
+logical
+
+insist
+
+spectrum
+
+vehicles
+
+wander
+
+inn
+
+delight
+
+### 2023-04-07
+
+leverage
 
 voucher
 
@@ -20,25 +222,11 @@ workforce
 
 retention
 
-terminology
-
-commodity
-
-outcomes
-
-revolve
-
-brochure
-
 presidency
 
 pension
 
 showcase
-
-handout
-
-mighty
 
 blow
 
@@ -47,8 +235,6 @@ adhere
 alibi
 
 coalition
-
-crucial
 
 smooth
 
@@ -60,41 +246,21 @@ cunning
 
 expansion
 
-assembly
-
-menace
-
-applicable
-
-suitable
-
 wholesome
 
 personnel
 
 pin
 
-termination
-
 decor
 
 conductor
 
-provoke
-
 sting
-
-clearance
-
-reflect
 
 bald
 
 sift
-
-dock
-
-explicit
 
 perfume
 
@@ -102,21 +268,11 @@ stakeholder
 
 feasibility
 
-subtle
-
-breach
-
 ### 2023-04-06
-
-menace
 
 feast
 
 concerns
-
-revolve
-
-testify
 
 reckon
 
@@ -125,8 +281,6 @@ encouraging
 specimen
 
 apparently
-
-invariably
 
 secluded
 
@@ -138,41 +292,25 @@ requisite
 
 residual
 
-serpent
-
-handout
-
 restrictions
-
-tile
 
 poop
 
-insignificant
-
 sustainable
-
-hatch
 
 dynamo
 
 terrific
 
-substitute
-
 proprietary
 
 revenues
-
-mighty
 
 cluster
 
 reckless
 
 genetic
-
-orchard
 
 outfits
 
@@ -190,17 +328,11 @@ compliance
 
 overthrow
 
-incidence
-
 treasury
 
 enthusiasm
 
 confess
-
-copper
-
-gulf
 
 hypocrisy
 
@@ -209,8 +341,6 @@ sergeant
 grief
 
 ambassador
-
-anticipate
 
 sake
 
@@ -258,8 +388,6 @@ coordination
 
 reconcile
 
-delegates
-
 advertisers
 
 deposit
@@ -292,8 +420,6 @@ constraint
 
 municipal
 
-empower
-
 canyon
 
 prospect
@@ -317,8 +443,6 @@ observed
 likeness
 
 nourish
-
-decay
 
 proposals
 
@@ -395,8 +519,6 @@ boycott
 squeeze
 
 wrath
-
-crucial
 
 peninsula
 
@@ -1133,7 +1255,7 @@ arbitrary
 
 interact
 
-explicit permission
+permission
 
 sneakily 
 
@@ -1206,8 +1328,6 @@ optimizes
 informative
 >some websites for family vacation resorts are very `informative` and some are practically useless<br>
 [Pay attention to the scathing reviews, which might be more `informative` than the glowing ones.](https://www.washingtonpost.com/technology/2023/02/14/what-is-temu-super-bowl-commercial/)
-
-annual 
 
 rate
 
@@ -1493,8 +1613,6 @@ ethnic origin
 surgery
 
 radiation
-
-reflect
 
 intervals
 
