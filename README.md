@@ -522,8 +522,6 @@ wrath
 
 peninsula
 
-fluid
-
 fringe
 
 bourgeois
@@ -860,8 +858,6 @@ ideology
 preserve
 
 schemes
-
-fraud
 
 consul
 
@@ -1479,8 +1475,6 @@ utilize
 squash
 
 courting
-
-inn
 
 frequency
 
