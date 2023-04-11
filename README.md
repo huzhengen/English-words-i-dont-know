@@ -1,10 +1,124 @@
 # English-words-i-dont-know
 
+### 2023-04-11
+
+restrain
+
+fro
+
+fracture
+
+invasion
+
+noble
+
+tremendous
+
+tender
+
+excessive
+
+venues
+
+rating
+
+alter
+
+spectrum
+
+bustling
+
+addition
+
+chuckles
+
+pledge
+
+container
+
+AGI - artificial general intelligence
+
+AI
+
+exhibit
+
+visual
+
+fate
+
+doctrine
+
+denote
+
+preliminary
+
+requisite
+
+strengthen
+
+intensity
+
+clause
+
+van
+
+optical
+
+admissions
+
+designation
+
+sighs
+
+laid
+
+deprive
+
+provoke
+
+validation
+
+devil
+
+lessen
+
+sampling
+
+manufacture
+
+mercury
+
+toxic
+
+laboratory
+
+hose
+
+seating
+
+void
+
+pressure
+
+attendees
+
+immune
+
+make of
+
+mightier
+
+sword
+
+patrol
+
+continental
+
+surpass
+
 ### 2023-04-10
 
 orchestra
-
-van
 
 graphite
 
@@ -18,11 +132,7 @@ brochure
 
 explicit
 
-intensity
-
 assembly
-
-provoke
 
 uniform
 
@@ -48,17 +158,11 @@ semester
 
 outlook
 
-strengthen
-
 mandate
 
 illusion
 
-optical
-
 clearance
-
-exhibit
 
 annual
 
@@ -88,8 +192,6 @@ hatch
 
 miserable
 
-admissions
-
 referral
 
 pendulum
@@ -105,8 +207,6 @@ terminology
 invariably
 
 menace
-
-doctrine
 
 cruise
 
@@ -127,8 +227,6 @@ offshore
 tile
 
 commodity
-
-sighs
 
 analogue
 
@@ -154,15 +252,11 @@ handout
 
 obtained
 
-designation
-
 stiffness
 
 tactics
 
 vast
-
-denote
 
 molecule
 
@@ -171,8 +265,6 @@ atom
 grain
 
 ultrasonic
-
-preliminary
 
 stakeholders
 
@@ -201,8 +293,6 @@ offence
 logical
 
 insist
-
-spectrum
 
 vehicles
 
@@ -287,8 +377,6 @@ secluded
 trek
 
 incorporated
-
-requisite
 
 residual
 
@@ -475,8 +563,6 @@ pharmeceutical
 bacteria
 
 ### 2023-03-26
-
-lessen
 
 childcare
 
