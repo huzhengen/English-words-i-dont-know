@@ -1,5 +1,37 @@
 # English-words-i-dont-know
 
+### 2023-04-14
+
+He said he did not want to `endanger` the ongoing investigation.
+
+This rating system is based on `qualitative` feedback.
+
+He needs physical `therapy` to learn to walk again.
+
+Theses two ideas are closely `connected`.
+
+Why are you `screaming`?
+
+These personnel lacked the `requisite` amount of training and experience.
+
+I was `wondering` if you'd like to come to dinner with me.
+
+She suffered a minor `injury` in the crash.
+
+I `specifically` told you not to touch that!
+
+The auditor examines the legitimacy of the `allocation` of funds.
+
+We are currently `seeking` for this project.
+
+It is common in America for hotel rooms to have a `Bible` in the nightstand.
+
+He will be `continuing` his education in another school.
+
+I decided to hang the picture my child had `drawn` on the wall of my office.
+
+He likes to be `referred` to as "the Doctor".
+
 ### 2023-04-13
 
 Taiwan was first invited to the World Health Assembly as an `observer` in 2009.
