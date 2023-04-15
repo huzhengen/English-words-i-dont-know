@@ -1,5 +1,69 @@
 # English-words-i-dont-know
 
+### 2023-04-15
+
+This issue belongs to the most difficult `category`.
+
+The average results are weak, but they are `improving`.
+
+The witness `stated` that he hadn't seen the woman before.
+
+`Branding` strategies not only include a logo, but also communication of core values.
+
+The student discount is only available to those who study at `accredited` schools.
+
+Tom had to confront many different situations during his `tenure` of office.
+
+A few showers will `linger` until early Friday morning.
+
+The hiking `trail` was wonderful.
+
+The project failed because of a `multitude` of problems.
+
+Retail sales have plunged for a decade, just as the `economist` had predicted.
+
+The executive board `nominated` him as the new auditor.
+
+Our company lost a large share of its market to a `competitor`.
+
+She decided to start her own business when she became `unemployed`.
+
+The lighting is `adaptive` and gets brighter as the sun sets.
+
+He worked as the `interim` manager while his boss looked for a permanent replacement.
+
+The NGO `assessed` the level of pollution from the factory's water waste.
+
+These personnel lacked the `requisite` amount of training and experience.
+
+The publisher merged to establish a `complementary` relationship with the newspaper.
+
+Our `shareholders` generally receive high returns on their investment.
+
+This device is used to measure metres of `elevation`.
+
+I think Beethoven's Ninth `Symphony` is incredible.
+
+The fire caused the people to `flee` the building.
+
+My little cousin found a `brood` of ducklings by the river and is now playing with them.
+
+Our agent has `assessed` the value of your property at £77,000.
+
+Membership gifts brought more festivals and the `souvenir` sales were very successful.
+
+The decision to close the factory caused a `controversy`.
+
+There mus be no `deviation` from the schedule.
+
+This is a `temporary` situation.
+
+My sister's dream is to `traverse` the country by car.
+
+There were `periodic` announcement during the game.
+
+Precision is necessary to get nice `symmetrical` symbols.
+
 ### 2023-04-14
 
 He said he did not want to `endanger` the ongoing investigation.
