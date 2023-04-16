@@ -1,5 +1,7 @@
 # English-words-i-dont-know
 
+[Learn JavaScript](https://github.com/huzhengen/English-words-i-dont-know/blob/main/Learn-JavaScript.md)
+
 ### 2023-04-16
 
 Batteries are to be inserted with the correct `polarity`.
