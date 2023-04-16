@@ -1,5 +1,45 @@
 # English-words-i-dont-know
 
+### 2023-04-16
+
+Batteries are to be inserted with the correct `polarity`.
+
+After a few minutes, remove the lid and stir until the potatoes start to `soften`.
+
+This glass window is completely `opaque` and offers complete privacy.
+
+The old, dead tree was `hollow` inside.
+
+The room measures 50 `cubic` meters.
+
+I need a packet of sesame `seeds`.
+
+The highest flattery is `imitation`.
+
+What is the best way to anchor a `pulley`?
+
+No major `complication` occurred during the surgery.
+
+Hikers love this trail for its varied `terrain` and dramatic scenery.
+
+I need help with my `algebra` homework.
+
+All baggage is required to `conform` to airline requirements.
+
+We are currently upgrading our facility to meet the `accreditation` standards.
+
+There must be no `deviation` from the schedule.
+
+This rating system is based on `qualitative` feedback.
+
+The `incidence` of crime in this city is very low.
+
+They `violate` the UN convention on the rights of the child.
+
+The new employees `exhibit` great willingness to work.
+
+`Jupiter` is the fifth planet from the sun and the biggest in our solar system.
+
 ### 2023-04-15
 
 This issue belongs to the most difficult `category`.
