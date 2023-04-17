@@ -5,3 +5,5 @@
 [Understanding the Basics of JavaScript Variables](https://github.com/huzhengen/English-words-i-dont-know/blob/main/2023-04-15.md)
 
 [Understanding JavaScript Functions](https://github.com/huzhengen/English-words-i-dont-know/blob/main/2023-04-16.md)
+
+[Understanding JavaScript Objects](https://github.com/huzhengen/English-words-i-dont-know/blob/main/2023-04-17.md)
