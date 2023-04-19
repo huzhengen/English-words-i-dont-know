@@ -10,3 +10,4 @@
 
 5. [Understanding JavaScript Promises](https://github.com/huzhengen/English-words-i-dont-know/blob/main/2023-04-18.md)
 
+6. [Understanding JavaScript Closures](https://github.com/huzhengen/English-words-i-dont-know/blob/main/2023-04-19.md)
