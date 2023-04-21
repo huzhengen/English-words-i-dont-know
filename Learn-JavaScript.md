@@ -14,3 +14,5 @@
 
 7. [Understanding JavaScript Modularity](https://github.com/huzhengen/English-words-i-dont-know/blob/main/2023-04-20.md)
 
+8. [Asynchronous Programming in JavaScript](https://github.com/huzhengen/English-words-i-dont-know/blob/main/2023-04-21.md)
+
