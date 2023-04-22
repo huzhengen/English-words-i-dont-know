@@ -16,3 +16,5 @@
 
 8. [Asynchronous Programming in JavaScript](https://github.com/huzhengen/English-words-i-dont-know/blob/main/2023-04-21.md)
 
+9. [Understanding Vue.js Reactivity System](https://github.com/huzhengen/English-words-i-dont-know/blob/main/2023-04-22.md)
+
