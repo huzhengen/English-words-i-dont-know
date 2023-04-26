@@ -11,3 +11,4 @@
 9. [Understanding Vue.js Reactivity System](https://github.com/huzhengen/English-words-i-dont-know/blob/main/2023-04-22.md)
 10. [Understanding the JavaScript Event Loop](https://github.com/huzhengen/English-words-i-dont-know/blob/main/2023-04-23.md)
 11. [A Beginner's Guide to JavaScript's Map and Set](https://github.com/huzhengen/English-words-i-dont-know/blob/main/2023-04-25.md)
+12. [Understanding Arrow Functions in JavaScript](https://github.com/huzhengen/English-words-i-dont-know/blob/main/2023-04-26.md)
