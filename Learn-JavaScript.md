@@ -12,3 +12,4 @@
 10. [Understanding the JavaScript Event Loop](https://github.com/huzhengen/English-words-i-dont-know/blob/main/2023-04-23.md)
 11. [A Beginner's Guide to JavaScript's Map and Set](https://github.com/huzhengen/English-words-i-dont-know/blob/main/2023-04-25.md)
 12. [Understanding Arrow Functions in JavaScript](https://github.com/huzhengen/English-words-i-dont-know/blob/main/2023-04-26.md)
+13. [10 JavaScript Concepts Every Developer Should Know](https://github.com/huzhengen/English-words-i-dont-know/blob/main/2023-04-27.md)
