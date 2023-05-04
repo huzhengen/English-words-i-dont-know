@@ -18,3 +18,4 @@
 16. [Object-Oriented Programming in JavaScript](https://github.com/huzhengen/English-words-i-dont-know/blob/main/2023-05-01.md)
 17. [JavaScript Strings Explained](https://github.com/huzhengen/English-words-i-dont-know/blob/main/2023-05-02.md)
 18. [Type Conversions in JavaScript](https://github.com/huzhengen/English-words-i-dont-know/blob/main/2023-05-03.md)
+19. [JavaScript loops](https://github.com/huzhengen/English-words-i-dont-know/blob/main/2023-05-04.md)
