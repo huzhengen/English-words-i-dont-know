@@ -19,3 +19,5 @@
 17. [JavaScript Strings Explained](https://github.com/huzhengen/English-words-i-dont-know/blob/main/2023-05-02.md)
 18. [Type Conversions in JavaScript](https://github.com/huzhengen/English-words-i-dont-know/blob/main/2023-05-03.md)
 19. [JavaScript loops](https://github.com/huzhengen/English-words-i-dont-know/blob/main/2023-05-04.md)
+20. [JavaScript's Number Data Type: A Comprehensive Guide](https://github.com/huzhengen/English-words-i-dont-know/blob/main/2023-05-05-1.md)
+21. [JavaScript's Data Types](https://github.com/huzhengen/English-words-i-dont-know/blob/main/2023-05-05.md)
