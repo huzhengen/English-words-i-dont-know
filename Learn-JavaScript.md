@@ -22,3 +22,4 @@
 20. [JavaScript's Number Data Type: A Comprehensive Guide](https://github.com/huzhengen/English-words-i-dont-know/blob/main/2023-05-05-1.md)
 21. [JavaScript's Data Types](https://github.com/huzhengen/English-words-i-dont-know/blob/main/2023-05-05.md)
 22. [JavaScript BigInt: Handling Large Numbers in JavaScript](https://github.com/huzhengen/English-words-i-dont-know/blob/main/2023-05-06.md)
+23. [Boolean Values in JavaScript: True or False?](https://github.com/huzhengen/English-words-i-dont-know/blob/main/2023-05-07.md)
