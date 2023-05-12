@@ -27,3 +27,5 @@
 25. [JavaScript Data Types: Undefined](https://github.com/huzhengen/English-words-i-dont-know/blob/main/2023-05-09.md)
 26. [JavaScript data type Symbol](https://github.com/huzhengen/English-words-i-dont-know/blob/main/2023-05-10.md)
 27. [Understanding JavaScript's Document Object Model (DOM)](https://github.com/huzhengen/English-words-i-dont-know/blob/main/2023-05-11.md)
+28. [Understanding 'this' in JavaScript](https://github.com/huzhengen/English-words-i-dont-know/blob/main/2023-05-12.md)
+
