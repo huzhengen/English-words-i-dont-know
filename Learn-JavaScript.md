@@ -29,4 +29,5 @@
 27. [Understanding JavaScript's Document Object Model (DOM)](https://github.com/huzhengen/English-words-i-dont-know/blob/main/2023-05-11.md)
 28. [Understanding 'this' in JavaScript](https://github.com/huzhengen/English-words-i-dont-know/blob/main/2023-05-12.md)
 29. [Understanding the Differences Between var, let, and const in JavaScript](https://github.com/huzhengen/English-words-i-dont-know/blob/main/2023-05-13.md)
+30. [A Brief History of JavaScript](A Brief History of JavaScript)
 
