@@ -1,5 +1,11 @@
 # Learn JavaScript
 
+### React
+
+1. [Understanding React's useState Hook](https://github.com/huzhengen/English-words-i-dont-know/blob/main/2023-05-16.md)
+
+### JavaScript
+
 1. [Introduction to JavaScript: What it is and How it Works](https://github.com/huzhengen/English-words-i-dont-know/blob/main/2023-04-14.md)
 2. [Understanding the Basics of JavaScript Variables](https://github.com/huzhengen/English-words-i-dont-know/blob/main/2023-04-15.md)
 3. [Understanding JavaScript Functions](https://github.com/huzhengen/English-words-i-dont-know/blob/main/2023-04-16.md)
@@ -29,8 +35,5 @@
 27. [Understanding JavaScript's Document Object Model (DOM)](https://github.com/huzhengen/English-words-i-dont-know/blob/main/2023-05-11.md)
 28. [Understanding 'this' in JavaScript](https://github.com/huzhengen/English-words-i-dont-know/blob/main/2023-05-12.md)
 29. [Understanding the Differences Between var, let, and const in JavaScript](https://github.com/huzhengen/English-words-i-dont-know/blob/main/2023-05-13.md)
-30. [A Brief History of JavaScript](A Brief History of JavaScript)
+30. [A Brief History of JavaScript]([A Brief History of JavaScript](https://github.com/huzhengen/English-words-i-dont-know/blob/main/2023-05-15.md))
 
-### React
-
-1. [Understanding React's useState Hook](https://github.com/huzhengen/English-words-i-dont-know/blob/main/2023-05-16.md)
