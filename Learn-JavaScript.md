@@ -5,6 +5,7 @@
 1. [Understanding React's useState Hook](https://github.com/huzhengen/English-words-i-dont-know/blob/main/2023-05-16.md)
 2. [Understanding React's useReducer Hook](https://github.com/huzhengen/English-words-i-dont-know/blob/main/2023-05-17.md)
 3. [Understanding the useContext Hook in React](https://github.com/huzhengen/English-words-i-dont-know/blob/main/2023-05-18.md)
+4. [Exploring Alternatives to useEffect: A Guide to Optimizing React Components](https://github.com/huzhengen/English-words-i-dont-know/blob/main/2023-05-19.md)
 
 ### JavaScript
 
