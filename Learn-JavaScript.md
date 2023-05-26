@@ -39,4 +39,5 @@
 28. [Understanding 'this' in JavaScript](https://github.com/huzhengen/English-words-i-dont-know/blob/main/2023-05-12.md)
 29. [Understanding the Differences Between var, let, and const in JavaScript](https://github.com/huzhengen/English-words-i-dont-know/blob/main/2023-05-13.md)
 30. [A Brief History of JavaScript]([A Brief History of JavaScript](https://github.com/huzhengen/English-words-i-dont-know/blob/main/2023-05-15.md))
+40. [Understanding Deep Copy and Shallow Copy in JavaScript](https://github.com/huzhengen/English-words-i-dont-know/blob/main/2023-05-26.md)
 
