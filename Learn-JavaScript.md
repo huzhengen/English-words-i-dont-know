@@ -43,4 +43,5 @@
 41. [JavaScript Garbage Collection: Managing Memory Efficiently](https://github.com/huzhengen/English-words-i-dont-know/blob/main/2023-05-28.md)
 42. [Understanding the new Operator in JavaScript](https://github.com/huzhengen/English-words-i-dont-know/blob/main/2023-05-29.md)
 43. [Efficient Array Deduplication in JavaScript](https://github.com/huzhengen/English-words-i-dont-know/blob/main/2023-06-15.md)
+44. [Mastering Debouncing and Throttling in JavaScript](https://github.com/huzhengen/English-words-i-dont-know/blob/main/2023-06-16.md)
 
