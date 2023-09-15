@@ -8,6 +8,8 @@ hot 英 [hɒt] 美 [hɑːt]
 
 Mexico 英 [ˈmɛksɪkəʊ] 美 [ˈmɛksəˌkoʊ]
 
+popcorn 英 [ˈpɒpkɔːn] 美 [ˈpɑːpkɔːrn]
+
 [Learn JavaScript](https://github.com/huzhengen/English-words-i-dont-know/blob/main/Learn-JavaScript.md)
 
 ### 2023-04-16
