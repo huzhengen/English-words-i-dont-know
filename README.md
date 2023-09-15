@@ -1,5 +1,13 @@
 # English-words-i-dont-know
 
+### 我一直读英音的单词，现在改成美音 (音标来源：https://www.iciba.com/)
+
+not 英 [nɒt] 美 [nɑːt]
+
+hot 英 [hɒt] 美 [hɑːt]
+
+Mexico 英 [ˈmɛksɪkəʊ] 美 [ˈmɛksəˌkoʊ]
+
 [Learn JavaScript](https://github.com/huzhengen/English-words-i-dont-know/blob/main/Learn-JavaScript.md)
 
 ### 2023-04-16
