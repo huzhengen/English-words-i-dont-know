@@ -2,6 +2,8 @@
 
 ### 我一直读英音的单词，现在改成美音 (音标来源：https://www.iciba.com/)
 
+pass 英 [pɑːs] 美 [ pæs]
+
 not 英 [nɒt] 美 [nɑːt]
 
 hot 英 [hɒt] 美 [hɑːt]
