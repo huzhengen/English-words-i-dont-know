@@ -2,6 +2,8 @@
 
 ### 我一直读英音的单词，现在改成美音 (音标来源：https://www.iciba.com/)
 
+either 英 [ˈaɪðə(r)] 美 [ˈiː.ðər]
+
 pass 英 [pɑːs] 美 [ pæs]
 
 not 英 [nɒt] 美 [nɑːt]
