@@ -2,6 +2,8 @@
 
 ### 我一直读英音的单词，现在改成美音 (音标来源：https://www.iciba.com/)
 
+hospital 英 [ˈhɒspɪtl] 美 [ˈhɑːspɪtl]
+
 can't 英 [kɑ:nt] 美 [kænt]
 
 either 英 [ˈaɪðə(r)] 美 [ˈiː.ðər]
